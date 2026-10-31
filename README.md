@@ -1,0 +1,2 @@
+# openshorts
+aiclipping
